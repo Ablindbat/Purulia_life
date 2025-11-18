@@ -1,4 +1,4 @@
-/* RESET & FONTS 
+/* RESET & FONTS */
 * { margin:0; padding:0; box-sizing:border-box; }
 body { font-family: 'Poppins', sans-serif; background:#f7f9fc; color:#003f62; }
 
@@ -58,7 +58,6 @@ footer { background:#003f62; color:white; text-align:center; padding:20px; margi
     .about-container { flex-direction:column; }
     .hero-text h1 { font-size:2rem; }
 }
-*/
 
 /*NEW CSS*/
 /* ABOUT (Desktop) */
@@ -186,5 +185,6 @@ footer { background:#003f62; color:white; text-align:center; padding:20px; margi
         transform: rotate(-45deg) translateY(-8px);
     }
 }
+
 
 
