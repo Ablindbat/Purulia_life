@@ -1,0 +1,58 @@
+[
+  { "name": "Logo", "url": "N/A (SVG embedded — no external link)", "download": false },
+
+  { "name": "Hero Image", 
+    "url": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=1400&q=60",
+    "download": true 
+  },
+
+  { "name": "About Image", 
+    "url": "https://images.unsplash.com/photo-1542810634-71277d95dcbb?auto=format&fit=crop&w=1200&q=60",
+    "download": true 
+  },
+
+  { "name": "Program 1 - Child Education", 
+    "url": "https://images.unsplash.com/photo-1600402444618-f9a9b6c3de0b?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Program 2 - Clean Environment", 
+    "url": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Program 3 - Rural Development", 
+    "url": "https://images.unsplash.com/photo-1551190822-a9333d879b1f?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Program 4 - Senior Citizen Support", 
+    "url": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Gallery 1", 
+    "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Gallery 2", 
+    "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Gallery 3", 
+    "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Gallery 4", 
+    "url": "https://images.unsplash.com/photo-1497493292307-31c376b6e479?auto=format&fit=crop&w=800&q=60",
+    "download": true 
+  },
+
+  { "name": "Donate QR", 
+    "url": "https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=DummyUPIPayment",
+    "download": false 
+  }
+]
